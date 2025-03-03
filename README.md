@@ -40,5 +40,5 @@ Grok镜像站入口：[https://chat.gptcat.net/](https://chat.gptcat.net/)（支
 
 如果想要无限次数使用就要30美元，也就是200+人民币（这还不如用上面那个镜像站，80人民币）：
 
-
+<img src="4.png">
 
