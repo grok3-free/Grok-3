@@ -26,7 +26,7 @@ Grok镜像站入口：[https://chat.gptcat.net/](https://chat.gptcat.net/)（支
 
 除了访问官网还可以访问一些国内的Grok镜像站，这类站点不仅可以在国内访问，而且还会携带众多功能：
 
-![image](https://github.com/user-attachments/assets/b94dc5a8-3515-4cb7-898c-458dd96ba561)
+<img src="2.png">
 
 ### Grok-3是免费的吗？
 对于免费的用户来说是有次数限制的，其实想想都知道，现在大多说的免费都是有次数限制的，不然这么多算力成本，谁来支付呢？
@@ -40,5 +40,5 @@ Grok镜像站入口：[https://chat.gptcat.net/](https://chat.gptcat.net/)（支
 
 如果想要无限次数使用就要30美元，也就是200+人民币（这还不如用上面那个镜像站，80人民币）：
 
-![image](https://github.com/user-attachments/assets/851695cd-44a6-4637-ae1f-2d32bb06c545)
+
 
