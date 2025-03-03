@@ -8,8 +8,7 @@
 
 那从各项数据对比，Grok-3真的反超DeepSeek以及GPT-o3模型了吗？可以看下下面的数据对比：
 
-![image](https://github.com/user-attachments/assets/0266a633-fdcb-45a9-b82d-3b6f8ebb5eaa)
-
+<img src="1.jpg" alt="Grok-3 对比 DeepSeek"/>
 
 其实这个是Grok-3给出来的数据，咱也不知道哈哈哈，但是我们可以自己去尝试一下，那接下来教一下大家如何在国内访问Grok-3。
 
