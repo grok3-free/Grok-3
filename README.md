@@ -22,7 +22,7 @@ Grok官网地址：[https://grok.com/](https://grok.com/)
 
 ### 2.访问国内Grok镜像站
 
-Grok镜像站入口：[https://chat.gptcat.net/](https://chat.gptcat.net/)（支持Grok3、ChatGPT、Claude、DeepSeek）
+Grok镜像站入口：[https://chat.gptcat.cc/](https://chat.gptcat.cc/)（支持Grok3、ChatGPT、Claude、DeepSeek）
 
 除了访问官网还可以访问一些国内的Grok镜像站，这类站点不仅可以在国内访问，而且还会携带众多功能：
 
